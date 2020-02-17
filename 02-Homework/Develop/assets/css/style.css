@@ -7,8 +7,13 @@
 body {
     background-color: #d9dcd6;
 }
+
+
 /*Removed the "." from all the header tags*/
+
+
 /*Changed the "header div" to "header nav"*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,7 +55,10 @@ a {
 p {
     font-size: 16px;
 }
+
+
 /*change hero from a class to an id*/
+
 #hero {
     height: 800px;
     width: 100%;
@@ -76,7 +84,9 @@ p {
     margin-left: 20px;
 }
 
+
 /*changed the .benefits to aside*/
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,7 +112,10 @@ aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+
 /*changed all the h tags from "h3" to "h1, h2, h3"*/
+
 .benefit-lead h1 {
     margin-bottom: 10px;
     text-align: center;
@@ -174,7 +187,10 @@ aside {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+
 /*changed all the h tags from "h3" to "h1, h2, h3"*/
+
 .search-engine-optimization h1 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -189,14 +205,20 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
 /*Removed the "." from the footer tags*/
+
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+
 /*changed the h tag from a 2 to a 1*/
+
 footer h1 {
     font-size: 20px;
 }
