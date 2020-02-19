@@ -10,6 +10,8 @@ Next I added alt attributes to all image elements on the page.  None of the imag
 
 Next I had to work on the structure of elements.  I moved the code to be more fluid and clean looking.  It now shows proper indentation and spacing when viewing in order to make future updates and changed easier to apply.
 
-The final task I attacked was to implement semantic elements into the source code.  I changed around a lot of the div tags and removed classes altogether to accomplish this.  I made a main element that has a section, article, and aside built into it.  I changed the header and footers from div tags with classes to just being a header section and footer section.  I also added a nav element within the header for the ul,li elements and kept it in-line with the page layout. 
+The last task I attacked was to implement semantic elements into the source code.  I changed around a lot of the div tags and removed classes altogether to accomplish this.  I made a main element that has a section, article, and aside built into it.  I changed the header and footers from div tags with classes to just being a header section and footer section.  I also added a nav element within the header for the ul,li elements and kept it in-line with the page layout. 
+
+After all of that was finished I then stared to fully clean up the code.  Grouping or nesting CSS elements together that have the same attributes (ie. width, height, font-size...).  Cleaning up the code helps to identify future problems that might arise.  Now any updates can be made with simplicity and ease.
 
 In conclusion this assignment was daugnting at first glance, but once I broke the elements down it was not as hard as I first dpreceived.
