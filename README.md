@@ -56,9 +56,12 @@ Built using HTML5 and CSS and using Visual Studio Code for editing.
 ### Credits
 
 Eric Meyer - https://meyerweb.com/eric/tools/css/reset/ - For providing the reset.css file.
-Eddie Saunders - For hosting a study group session and providing input
-Travis Cultreri - For input during the study group session
-Yalmar Mairena - For input during the study group session
+
+Eddie Saunders - For hosting a study group session and providing input.
+
+Travis Cultreri - For input during the study group session.
+
+Yalmar Mairena - For input during the study group session.
 
 ### Author 
 
