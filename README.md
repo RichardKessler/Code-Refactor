@@ -1,6 +1,6 @@
 # Code Refactor - Homework Assignment 1 UNC Coding Bootcamp
 
-Working with basic front-end development tools to become firmiliar with implementation of updating code, ensuring sustainability and functionality of the new code, and organize all the HTML and CSS elements.  Becoming firmiliar with changing existing elements as a front-end developer to resolve issues that may happen on-the-job.  Reorganizing existing code to be more in-line with standards by applying HTML and CSS semantic elements.  Ensure functionalilty of all the code by making sure that images were loading properly, links worked as intended, and the style is applied properly.  Making the code clean so that future updates and changes can be implemented quickly and easily.  
+Working with basic front-end development tools to become farmiliar with implementation of updating code, ensuring sustainability and functionality of the new code, and organize all the HTML and CSS elements.  Becoming farmiliar with changing existing elements as a front-end developer to resolve issues that may happen on-the-job.  Reorganizing existing code to be more in-line with standards by applying HTML and CSS semantic elements.  Ensure functionality of all the code by making sure that images were loading properly, links worked as intended, and the style is applied properly.  Making the code clean so that future updates and changes can be implemented quickly and easily.  
 
 
 ## User Story
@@ -35,7 +35,7 @@ THEN I find a concise, descriptive title
 
 I started from the bottom up working on the title element first.  I changed the title that was given to be more descriptive and in-line with the company page.  I reloaded the website to make sure that the changes saved.  Once confirmed I started on to the next task.  
 
-My next task was to fix the heading attributes.  Putting the h tags in sequential order from top to bottom.  I put them in order as they apear in the elements.  For example the heading has an h1 tag for the heading of the page.  The next element is in my main area, and within that I have a section and article that has h1, h2, and h3 tags for the headings.  My side element has h1, h2, and h3 tags for the headings to fall in order there.  Finally my footer has an h1 tag since there is only 1 heading in that element.  I stuctured the h elements this way to provide structure throughout the page, and to allow for more subjects to be picked up by search engines.
+My next task was to fix the heading attributes.  Putting the h tags in sequential order from top to bottom.  I put them in order as they appear in the elements.  For example the heading has an h1 tag for the heading of the page.  The next element is in my main area, and within that I have a section and article that has h1, h2, and h3 tags for the headings.  My side element has h1, h2, and h3 tags for the headings to fall in order there.  Finally my footer has an h1 tag since there is only 1 heading in that element.  I structured the h elements this way to provide structure throughout the page, and to allow for more subjects to be picked up by search engines.
 
 My next task was to add alt attributes to all image elements on the page.  None of the images had an alt associated with them, so I added alt attributes that would display in case of loading issues.  
 
@@ -60,6 +60,6 @@ Eddie Saunders - For hosting a study group session and providing input
 Travis Cultreri - For input during the study group session
 Yalmar Mairena - For input during the study group session
 
-### Aurthor 
+### Author 
 
 Richard Kessler
